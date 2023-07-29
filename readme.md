@@ -24,7 +24,7 @@ Program entry point is located in the [TestTask](src/main/java/TestTask.java) cl
 
 ### Running the project using runnable JAR file
 
-You can locate the JAR file by following link []()
+You can locate the JAR file by following link [https://github.com/stoding/andersen/blob/master/task.jar](https://github.com/stoding/andersen/blob/master/task.jar)
 # Logic part of the task
 
 Задание, ответ в текстовой форме:
